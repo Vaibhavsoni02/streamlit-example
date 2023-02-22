@@ -1,8 +1,8 @@
-from collections import namedtuple
-import altair as alt
-import math
-import pandas as pd
 import streamlit as st
+from collections import namedtuple
+import math
+import altair as alt
+import pandas as pd
 
 """
 # Welcome to Streamlit!
